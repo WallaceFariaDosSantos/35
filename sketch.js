@@ -1,5 +1,5 @@
 //variáveis!!
-
+var wallace;
 //bola
 var hypnoticBall;
 // bancoDeDados
